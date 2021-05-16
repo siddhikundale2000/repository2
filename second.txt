@@ -1,1 +1,2 @@
 This is second file second.txt
+added new line in second.txt
